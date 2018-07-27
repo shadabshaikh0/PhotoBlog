@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="logo_login">Logo Login</string>
+    <string name="your_email">Your Email..</string>
+    <string name="password">Password</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_setting_text">Account Settings</string>
+    <string name="action_logout_text">Logout</string>
+    <string name="photo_blog_title">Photo Blog</string>
+    <string name="bottom_home_text">home</string>
+    <string name="bottom_notification_text">notification</string>
+    <string name="bottom_account_text">Account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
